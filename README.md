@@ -1,6 +1,6 @@
 # Data-Augmentation-For-Wearable-Sensor-Data
 
-This is a [sample code](https://github.com/terryum/Data-Augmentation-For-Wearable-Sensor-Data/blob/master/Example_DataAugmentation_TimeseriesData.ipynb) of data augmentation methods for wearable sensor data (time-series data). For more details, please refer to the [jupyter notebook file](https://github.com/terryum/Data-Augmentation-For-Wearable-Sensor-Data/blob/master/Example_DataAugmentation_TimeseriesData.ipynb) or the paper below.
+This is a [sample code](https://nbviewer.jupyter.org/github/terryum/Data-Augmentation-For-Wearable-Sensor-Data/blob/master/Example_DataAugmentation_TimeseriesData.ipynb) of data augmentation methods for wearable sensor data (time-series data). For more details, please refer to the [jupyter notebook file](https://nbviewer.jupyter.org/github/terryum/Data-Augmentation-For-Wearable-Sensor-Data/blob/master/Example_DataAugmentation_TimeseriesData.ipynb) or the paper below.
 
 T. T. Um et al., “Data augmentation of wearable sensor data for parkinson’s disease monitoring using convolutional neural networks,” in Proceedings of the 19th ACM International Conference on Multimodal Interaction, ser. ICMI 2017. New York, NY, USA: ACM, 2017, pp. 216–220. [[arXiv]](https://arxiv.org/abs/1706.00527)
 
@@ -9,7 +9,7 @@ T. T. Um et al., “Data augmentation of wearable sensor data for parkinson’s 
 Data augmentation is consider as a standard preprocessing in various recognition problems (e.g. image recognition), which gives additional performance improvement by providing more data. Data augmentation can be also interpreted as injecting human's prior knowledge about label-preserving transformation and giving regularization by data. This code provides a simple approach to augment time-series data, e.g., wearable sensor data, by applying various distortions to the data. 
 
 ## Data augmentation examples
-Please see the [jupyter notebook file](https://github.com/terryum/Data-Augmentation-For-Wearable-Sensor-Data/blob/master/Example_DataAugmentation_TimeseriesData.ipynb) for more examples
+Please see the [jupyter notebook file](https://nbviewer.jupyter.org/github/terryum/Data-Augmentation-For-Wearable-Sensor-Data/blob/master/Example_DataAugmentation_TimeseriesData.ipynb) for more examples
 
 ![DA_examples](DA_examples.png)
 
